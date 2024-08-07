@@ -1,0 +1,20 @@
+{
+  "welcomeText": "Hello. My name is",
+  "name": "Nahom Denbel",
+  "text": "10+ years of strong experience in designing and implementing applications using React.js, JavaScript, and TypeScript. ",
+  "socialLinks": [
+    {
+      "text": "LINKEDIN",
+      "to": "https://www.linkedin.com/in/nahom-endale/"
+    },
+    {
+      "text": "TWITTER",
+      "to": "https://x.com/nahod14"
+    },
+    {
+      "text": "INSTAGRAM",
+      "to": "https://www.instagram.com/nahom_denbel/"
+    }
+  
+  ]
+}

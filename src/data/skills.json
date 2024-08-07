@@ -1,0 +1,41 @@
+{
+  "title": "Skills",
+
+  "circleProgress": [
+    {
+      "title": "JavaScript",
+      "percentage": 90
+    },
+    {
+      "title": "React",
+      "percentage": 80
+    },
+    {
+      "title": "TypeScript",
+      "percentage": 70
+    },
+    {
+      "title": "Python",
+      "percentage": 60
+    }
+  ],
+
+  "horizontalProgress": [
+    {
+      "title": "Creativity",
+      "percentage": 75
+    },
+    {
+      "title": "Coding",
+      "percentage": 80
+    },
+    {
+      "title": "Cooking",
+      "percentage": 48
+    },
+    {
+      "title": "Team-Lead",
+      "percentage": 62
+    }
+  ]
+}

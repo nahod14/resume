@@ -1,0 +1,46 @@
+{
+  "navLinks": [
+    {
+      "to": "home",
+      "text": "Home"
+    },
+    {
+      "to": "service",
+      "text": "About me"
+    },
+    {
+      "to": "portfolio",
+      "text": "Portfolio"
+    },
+    {
+      "to": "resume",
+      "text": "Resume"
+    },
+    {
+      "to": "skills",
+      "text": "Skills"
+    },
+    {
+      "to": "contact",
+      "text": "Contact"
+    }
+  ],
+  "navInfo": [
+    {
+      "title": "NAME",
+      "text": "Nahom Denbel"
+    },
+    {
+      "title": "ROLE",
+      "text": "Software Developer"
+    },
+    {
+      "title": "EMAIL",
+      "text": "nahod14@gmail.com"
+    },
+    {
+      "title": "PHONE",
+      "text": "(240) 810 5127"
+    }
+  ]
+}

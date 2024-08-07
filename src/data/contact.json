@@ -1,0 +1,26 @@
+{
+  "title": "Get in touch",
+
+  "description": ".",
+
+  "paragrapgs": [
+    "10+ years of strong experience in designing and implementing applications using React.js, JavaScript, and TypeScript.",
+    "Organizations that i worked in benefited from my commitment to quality, evident in the high-caliber, responsive applications our team delivers"
+  ],
+  "contactInfo": [
+    {
+      "title": "ADDRESS",
+      "value": "10103 Devere CT , SilverSpring, MD , USA"
+    },
+    {
+      "title": "EMAIL",
+      "value": "nahod14@gmail.com"
+    },
+    {
+      "title": "WEBSITE",
+      "value": "www.nahomd.com"
+    }
+  ],
+
+  "formspreeEndpoint": "https://formspree.io/f/mdkneakd"
+}

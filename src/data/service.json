@@ -1,0 +1,23 @@
+{
+  "title": "About me",
+  "description": "",
+  "paragraphes": [
+    "",
+    ""
+  ],
+
+  "servicesBoxes": [
+    {
+      "imageAltText": "serv icon",
+      "servTitle": "Design",
+      "servDesc": "In the design phase, I focus on creating intuitive and user-friendly interfaces that prioritize the user experience.",
+      "className": "service-holder"
+    },
+    {
+      "imageAltText": "serv icon",
+      "servTitle": "Develop",
+      "servDesc": "I bring designs to life with clean, efficient, and scalable code. Using the latest React features and best practices, I build dynamic and high-performance web applications. ",
+      "className": "service-holder m-right-0"
+    }
+  ]
+}

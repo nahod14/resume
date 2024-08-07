@@ -1,0 +1,28 @@
+{
+  "experience": {
+    "title": "Experience",
+    "expPiece": [
+      {
+        "description": "**2018 - 2024** -- **Atlantic ITC** -- **MD,U.S.A** Successfully Developed and maintained a Web-based Data management system using React for NGO working on livestock management in the rular area of Ethiopia.Reduced page load time by 30% through code optimization and efficient API integration for dynamic data retrieval and display.",
+        "date": "2018"
+      },
+      {
+        "description": "**2016 - 2018** -- **Reboot Consult** -- **Ethiopia** Spearheaded front-end development for SMS gateway project catering to thousands of users, and ensuring smooth communication via SMS messaging.Implemented testing strategies including unit testing and integration testing. Improved message delivery efficiency by 25% through performance optimizations,",
+        "date": "2016"
+      },
+      {
+        "description": "**2014 - 2016** -- **NWM Mobile Solutions** -- **Ethiopia** Developed a robust SMS gateway application using JavaScript to facilitate the communication between users and external SMS providers.Increased user engagement by 40% through intuitive UI enhancements by developing custom JavaScript modules and functions to process and format SMS messages based on specific business requirements.",
+        "date": "2014"
+      }
+    ]
+  },
+  "coverLetter": {
+    "title": "Cover letter",
+    "description": "",
+    "paragraphes": [
+      "Throughout my career, I have focused on designing and developing high-quality software solutions that meet user needs and exceed client expectations. My portfolio showcases a variety of projects that demonstrate my ability to translate complex requirements into user-friendly interfaces and robust functionalities. I am adept at using modern design tools to create intuitive and visually appealing layouts, and I prioritize clean, maintainable code in all my development work.",
+      "I am committed to continuous learning and staying up-to-date with industry trends, which allows me to incorporate the latest technologies and best practices into my projects. I take pride in delivering solutions that are not only functional but also scalable and efficient.",
+      "I invite you to explore my portfolio to see examples of my work and the skills I bring to the table."
+    ]
+  }
+}
